@@ -2,7 +2,7 @@ Hack Thursday
 =============
 A idéia do repositório é reter as regras dos eventos, assim como reter a lista de confirmação de pessoas que vão vir a participar de uma edição do evento.
 
-Para aqueles que não conhecem o Hack Thursday, podem dar uma olhada no blog.
+Para aqueles que não conhecem o Hack Thursday, podem dar uma olhada no <a href="http://hackthursday.github.com/">blog</a>.
 
 
 ## Como funciona?
@@ -19,4 +19,4 @@ Para confirmar a participação os membros, assim como os convidados para ediç�
 
 Os arquivos estão listados aqui, para cada edição é criado 1 arquivo com a data do evento e dentro deste mesmo temos o tópico do evento logo abaixo a lista de membros/convidados. Logo basta adicionar seu nome nesta lista para confirmar a participação, para os não membros ainda do **Hack Thursday** deve adicionar além do nome também o nome do membro que convidou.
 
-**Exemplo:** <a href="https://github.com/HackThursday/Eventos/edicoes/2012-06-05.md">2012-06-05.md</a>
+**Exemplo:** <a href="https://github.com/HackThursday/Eventos/blob/master/edicoes/2012-06-05.md">2012-06-05.md</a>
