@@ -11,7 +11,7 @@ Para aqueles que não conhecem o Hack Thursday, podem dar uma olhada no <a href=
 
 As regras estão listadas e definidas aqui, a idéia de ter uma lista de regras, é com intuito de manter um padrão e foco nos eventos, tornando assim, o mesmo saúdavel e possibilidade a continuidade do mesmo.
 
-Estas regras são descritas e definidas pelos membros do evento. 
+Estas  <a href="https://github.com/HackThursday/Eventos/blob/master/regras.md">regras</a> são descritas e definidas pelos membros do evento. 
 
 ### Confirmação de participação:
 
